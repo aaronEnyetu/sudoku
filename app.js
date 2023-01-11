@@ -376,4 +376,4 @@ function solveSolution()
 
 }
 
-/*solving the solution helping functios ends here */
+/*solving the solution helping functions ends here */
